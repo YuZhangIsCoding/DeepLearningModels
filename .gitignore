@@ -1,0 +1,6 @@
+**/data
+**/checkpoints
+**/.ipynb_checkpoints
+*.ckpt.*
+*.zip
+*.hdf5
